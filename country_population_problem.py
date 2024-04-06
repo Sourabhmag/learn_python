@@ -31,3 +31,4 @@ elif user_input.__eq__("query"):
         print(data[country])
     else:
         print("Country not present in dictionary")
+
